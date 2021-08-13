@@ -1,4 +1,4 @@
-City_ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
+,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
 0,Yellowknife,62.456,-114.3525,66.72,55,40,scattered clouds,CA,2021-08-13 02:51:41
 1,Vila Franca Do Campo,37.7167,-25.4333,73.81,79,64,broken clouds,PT,2021-08-13 02:54:46
 2,Nikolskoye,59.7035,30.7861,64.29,93,100,light rain,RU,2021-08-13 02:54:46
